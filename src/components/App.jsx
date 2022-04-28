@@ -11,7 +11,7 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      React homework template
+     <h2>Hello Word!!</h2>
     </div>
   );
 };
