@@ -11,7 +11,8 @@ export const App = () => {
         color: '#010101',
       }}
     >
-     <h2>Hello Word!!</h2>
+      <h2>Hello Word!!</h2>
+      <h3>hello react!!</h3>
     </div>
   );
 };
